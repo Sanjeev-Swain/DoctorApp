@@ -1,7 +1,7 @@
-<h1 align="center">Healthcare Management API 
+<h1 align="center">Hospital Management API 
 </h1>
 
-The Healthcare Management API is a RESTful API designed to facilitate the management of patient and doctor data and appointments in a healthcare system. It provides endpoints for patient registration, authentication, appointment booking, and retrieval of doctor information.
+The Hospital Management API is a RESTful API designed to facilitate the management of patient and doctor data and appointments in a healthcare system. It provides endpoints for patient registration, authentication, appointment booking, and retrieval of doctor information.
 
 ## Prerequisites
 * ![MySql](https://img.shields.io/badge/DBMS-MYSQL%205.7%20or%20Higher-red)
